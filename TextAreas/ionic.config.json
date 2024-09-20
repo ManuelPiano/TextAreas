@@ -1,0 +1,7 @@
+{
+  "name": "TextAreas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
